@@ -1,0 +1,4 @@
+Claim ID: C001
+Incident: House fire in garage
+Requested Payout: $12,500
+Notes: Electrical wiring suspected.

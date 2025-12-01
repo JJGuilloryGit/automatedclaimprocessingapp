@@ -1,0 +1,4 @@
+Claim ID: C002
+Incident: Broken windshield
+Requested Payout: $800
+Notes: Hit by road debris.

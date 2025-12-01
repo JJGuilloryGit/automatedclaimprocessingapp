@@ -1,0 +1,4 @@
+Policy Rules:
+1. Maximum payout for minor auto damage: $2,000
+2. Home fire incidents require fire department report
+3. Medical cases require symptom escalation timeline

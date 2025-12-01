@@ -1,0 +1,4 @@
+Patient ID: P002
+Symptoms: Severe headache, blurred vision
+History: High blood pressure
+Notes: Patient reports onset after intense workout.

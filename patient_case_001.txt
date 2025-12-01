@@ -1,0 +1,4 @@
+Patient ID: P001
+Symptoms: Persistent cough, mild fever
+History: Asthma diagnosed in childhood
+Notes: Symptoms worsening over last 3 days.
