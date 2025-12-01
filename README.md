@@ -1,4 +1,4 @@
-# Claim AI - AWS Terraform Deployment
+# Automated Claim & Patient Case Processing on AWS
 
 A complete AWS infrastructure setup for deploying a Claim AI Flask application using Terraform and ECS Fargate.
 
