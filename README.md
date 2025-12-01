@@ -2,6 +2,8 @@
 
 A complete AWS infrastructure setup for deploying a Claim AI Flask application using Terraform and ECS Fargate.
 
+This is a full AI-powered document automation system using AWS—designed for insurance and healthcare teams who want to reduce manual review time, improve accuracy, and demo modern AI workflows for real-world operations.
+
 ## 🏗️ Architecture
 
 - **ECS Fargate** - Containerized Flask app (256 CPU / 512 MB)
@@ -63,5 +65,5 @@ terraform destroy -auto-approve
 ├── app.py              # Flask application
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile         # Container definition
-└── README.md          # This file
+└── README.md          
 ```
